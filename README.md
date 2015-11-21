@@ -26,3 +26,11 @@ Contains all avalanche accidents from 2009-Present.  Accidents going back to 199
 | acc_lat | Latitude. |
 | acc_lon | Longitude. |
 
+#### caic_zones
+The zones that the CAIC uses to issue forecasts and warnings.
+
+| Field Name | Details |
+|------------|---------|
+| Zone | The name of the zone, e.g. "Vail & Summit County" |
+| caic_id | The id given to the zone by CAIC. |
+
