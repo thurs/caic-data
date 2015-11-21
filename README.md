@@ -34,3 +34,17 @@ The zones that the CAIC uses to issue forecasts and warnings.
 | Zone | The name of the zone, e.g. "Vail & Summit County" |
 | caic_id | The id given to the zone by CAIC. |
 
+#### caic_observations
+Contains all field observations from 2010  to 11/20/2015.
+
+| Field Name | Details |
+|------------|---------|
+|obs_id | The CAIC observation id.  You can use this to look up observation details with GET on their PHP pages. |
+| obs_date | The date of the observation. |
+| obs_bc_landmark | The backcountry 'landmark' -- recognizable or notable features near the observation. |
+| obs_caught_avi |  |
+| obs_obsfm |  |
+| obs_rand |  |
+| obs_see_avi |  |
+| obs_trigger_avi |  |
+| obs_wx_precip_rate | The precipitation rate at the time of the observation. |
