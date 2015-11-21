@@ -7,7 +7,7 @@ All data is in EPSG:3857 for quick use in web mapping applications.
 
 Files are in GeoJSON format for Git version control purposes.
 
-### Data Layers
+## Data Layers
 
 #### caic_accidents
 Contains all avalanche accidents from 2009-Present.  Accidents going back to 1993 can be added by hand.
