@@ -11,6 +11,7 @@ Files are in GeoJSON format for Git version control purposes.
 
 #### caic_accidents
 Contains all avalanche accidents from 2009-Present.  Accidents going back to 1993 can be added by hand.
+*Note:* Some of these point locations are very inaccurate.  There seems to be no standard method for how CAIC placed these -- some of them appear to be the trigger points, others appear to be the burial point, many are just in the general area, and some are not even close to where the avalanche occured.  An effort will be made to manually re-site some of the more incorrect points.
 
 | Field Name | Details |
 |------------|---------|
